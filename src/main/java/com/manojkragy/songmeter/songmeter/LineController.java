@@ -12,6 +12,7 @@ public class LineController {
 	@GetMapping("/lines")
 	public List<Line> getAllLines(){
 		return Arrays.asList(new Line(1,"aa","manoj",10));
+		//this is small change
 	}
 
 }
