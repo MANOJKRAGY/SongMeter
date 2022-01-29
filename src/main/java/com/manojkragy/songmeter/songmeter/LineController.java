@@ -15,6 +15,18 @@ public class LineController {
 		//this is small change
 		//first change in aayush branch
 		//new change for the aaayush branch
+
+		/*a - 2
+		i - 1
+		ee - 2
+		u - 1
+		oo - 2
+		e - 2
+		ai - 2
+		o - 2
+		au - 2
+		an - 1
+		ah - 1*/
 	}
 
 }
