@@ -30,5 +30,47 @@ public class LineController {
 		ah - 1*/
 
 	}
+	//adding the list of consonant
+	/*
+	k
+	kh
+	g
+	gh
+	ng
+    ch
+	chh
+	j
+	jh
+	yn
+	t
+	th
+	d
+	dh
+	n
+	t
+	th
+	d
+	dh
+	n
+	p
+	ph
+	b
+	bh
+	m
+	y
+	r
+	l
+	w/v
+	sh
+	sh
+	s
+	h
+	ksh
+	tr
+	gy
+	shr
+	ri
+	*/
+	
 
 }
